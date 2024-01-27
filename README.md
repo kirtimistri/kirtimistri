@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kirti</h1>
 <h3 align="center">A passionate programmer from India</h3>"
-<img align="right" alt="coding" width="400"   src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2tqbDlqejJyYXdxcm1jZWxzc2tzbHo0MG5rbnBwZ2hvNzIxMzJ5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
+<img align="right" alt="coding" width="400"   src="https://i.pinimg.com/originals/04/86/9e/04869e09851353129379e535502d87e4.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirtimistri&label=Profile%20views&color=0e75b6&style=flat" alt="kirtimistri" /> 
 
