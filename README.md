@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on python projects
 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python-RestFramework
 
 - 👯 I’m looking to collaborate on machine learning project
 
